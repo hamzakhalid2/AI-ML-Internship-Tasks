@@ -1,26 +1,38 @@
 # AI/ML Internship Tasks
 
-This repository contains the tasks completed during my AI/ML internship. Each task will demonstrate different concepts and techniques related to Artificial Intelligence, Machine Learning, Data Analysis, and Data Visualization using Python.
+This repository contains the tasks completed during my AI/ML internship. The tasks cover various aspects of Machine Learning, including data preprocessing, exploratory data analysis, visualization, model development, evaluation, and interpretation of results.
 
-## Technologies
+## Objectives
+
+* Understand machine learning workflows
+* Perform data preprocessing and cleaning
+* Explore and visualize datasets
+* Train and evaluate machine learning models
+* Interpret results and draw meaningful insights
+
+## Technologies Used
 
 * Python
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
+* Scikit-learn
 * Jupyter Notebook
 
 ## Repository Structure
 
-* Task 1
-* Task 2
-* Task 3
-* Additional tasks and projects will be added as they are completed.
+Each task folder contains:
 
-## Purpose
+* Jupyter Notebook
+* Dataset (if applicable)
+* Visualizations
+* Model implementation
+* Results and findings
 
-The purpose of this repository is to document my learning journey during the AI/ML internship and showcase the practical tasks completed throughout the program.
+## Tasks
+
+Tasks will be added and updated throughout the internship program.
 
 ## Author
 
