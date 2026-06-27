@@ -1,39 +1,24 @@
 # AI/ML Internship Tasks
 
-This repository contains the tasks completed during my AI/ML internship. The tasks cover various aspects of Machine Learning, including data preprocessing, exploratory data analysis, visualization, model development, evaluation, and interpretation of results.
-
-## Objectives
-
-* Understand machine learning workflows
-* Perform data preprocessing and cleaning
-* Explore and visualize datasets
-* Train and evaluate machine learning models
-* Interpret results and draw meaningful insights
-
-## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
-
-## Repository Structure
-
-Each task folder contains:
-
-* Jupyter Notebook
-* Dataset (if applicable)
-* Visualizations
-* Model implementation
-* Results and findings
+This repository contains the tasks completed during my AI/ML internship.
 
 ## Tasks
 
-Tasks will be added and updated throughout the internship program.
+### Task 1: Exploring and Visualizing Iris Dataset
+- Dataset: Iris Dataset
+- Model: None (EDA)
+- Skills: Data Exploration and Visualization
 
-## Author
+### Task 2: Stock Price Prediction
+- Dataset: Yahoo Finance
+- Model: Linear Regression
+- Skills: Regression, Time Series
 
-Hamza Khalid
+### Task 3: Heart Disease Prediction
+- Dataset: Heart Disease UCI
+- Model: Logistic Regression
+- Accuracy: 91.67%
+
+### Task 4: General Health Query Chatbot
+- Model: LLM (Hugging Face/OpenAI)
+- Skills: Prompt Engineering, Chatbot Development, Safety Filtering
